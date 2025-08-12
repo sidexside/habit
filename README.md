@@ -1,3 +1,7 @@
+# HABIT
+
+> Handmade Automation - Blockchain Investment Trading
+
 - `.env`가 필요함
 
 ```sh
